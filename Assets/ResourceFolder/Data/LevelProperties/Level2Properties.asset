@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dc01ca2d0da574468ee06ef35f2d667, type: 3}
+  m_Name: Level2Properties
+  m_EditorClassIdentifier: 
+  cars:
+  - {fileID: 7004363982127104378, guid: da5a3a283a40e90428eb69840b8af16d, type: 3}
+  - {fileID: 499289069421090298, guid: ee5fabe739fac5941b4e8e84d50eae31, type: 3}
+  - {fileID: 269503533443710079, guid: d0ca665b0f61693438d22a197453eec1, type: 3}
+  - {fileID: 840967107183675113, guid: e69307f45c8663a479e86ab352f957d9, type: 3}
+  cameraBackgroundColor: {r: 1, g: 0.5, b: 0, a: 0}
+  roadMeshColor: {r: 1, g: 0, b: 0, a: 0}
+  squads:
+  - color: {r: 0, g: 0, b: 0, a: 0}
+    squadGridCount: 4
+  - color: {r: 0, g: 0, b: 0, a: 0}
+    squadGridCount: 5

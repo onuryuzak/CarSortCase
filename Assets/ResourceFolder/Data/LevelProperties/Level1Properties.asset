@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dc01ca2d0da574468ee06ef35f2d667, type: 3}
+  m_Name: Level1Properties
+  m_EditorClassIdentifier: 
+  cars:
+  - {fileID: 3051159059898390240, guid: f94600e5b9e54a54484b0064cdb499df, type: 3}
+  - {fileID: 167770144798716093, guid: 1201f0a68685c2148acde08a1057c66c, type: 3}
+  - {fileID: 3232294440386675408, guid: 467f685d57acb164db34957dc2b5fb06, type: 3}
+  - {fileID: 4384972863705268959, guid: 9f1d9f175e1d7d94ab641e2f72b01376, type: 3}
+  cameraBackgroundColor: {r: 1, g: 0.96862745, b: 0.9372549, a: 0}
+  roadMeshColor: {r: 0.39215687, g: 0.4, b: 0.44705883, a: 0}
+  squads:
+  - color: {r: 0.082013145, g: 0.10627165, b: 0.9150943, a: 1}
+    squadCarCount: 5
+  - color: {r: 0.6792453, g: 0.30437878, b: 0.30437878, a: 1}
+    squadCarCount: 4
